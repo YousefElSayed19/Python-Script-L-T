@@ -5,7 +5,7 @@ from concurrent.futures import ThreadPoolExecutor, wait, FIRST_COMPLETED
 import threading
 import time
 
-TARGET = "https://0a9d00a9047383b2805d26d900fa0043.web-security-academy.net"
+TARGET = "https://0a9d00a9047383b2805d26d900fa0043.web-security-academy.net/"
 USERNAME = "carlos"
 PASSWORD = "montoya"
 MAX_WORKERS = 15
